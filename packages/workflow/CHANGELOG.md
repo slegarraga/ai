@@ -1,5 +1,14 @@
 # @ai-sdk/workflow
 
+## 1.0.0-canary.83
+
+### Patch Changes
+
+- 19736ee: feat(ai): rename onStepFinish to onStepEnd
+- Updated dependencies [19736ee]
+- Updated dependencies [d66ae02]
+  - ai@7.0.0-canary.166
+
 ## 1.0.0-canary.82
 
 ### Patch Changes

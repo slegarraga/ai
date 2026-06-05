@@ -1,5 +1,11 @@
 # @ai-sdk/gateway
 
+## 4.0.0-canary.100
+
+### Patch Changes
+
+- 24bb123: fix(gateway): base64-encode inline Uint8Array data on reasoning-file and tool-result file parts
+
 ## 4.0.0-canary.99
 
 ### Patch Changes
